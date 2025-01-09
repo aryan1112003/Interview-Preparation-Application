@@ -1,67 +1,50 @@
-# 🧠 Interview Prep AI
+# 🧠 **Interview Prep AI**
 
 <div align="center">
 
 ![Interview Prep AI](https://images.unsplash.com/photo-1549923746-c502d488b3ea?auto=format&fit=crop&q=80&w=1200&h=400)
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://vocal-baklava-4a3dd3.netlify.app/)
-[![GitHub](https://img.shields.io/badge/github-aryan1112003-black)](https://github.com/aryan1112003)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Aryan%20Acharya-blue)](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://vocal-baklava-4a3dd3.netlify.app/)
+[![GitHub](https://img.shields.io/badge/github-aryan1112003-black?style=for-the-badge&logo=github)](https://github.com/aryan1112003)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Aryan%20Acharya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 
-*Your AI-powered interview companion for landing your dream job* 🚀
+**Your AI-powered interview coach, helping you land your dream job! 🚀**
 
 </div>
 
-## 🌟 About The Project
+---
 
-Interview Prep AI is your personal interview coach powered by Google's cutting-edge Gemini AI technology. Whether you're preparing for a technical role at a top tech company or getting ready for your first job interview, our platform provides tailored practice sessions, instant feedback, and expert guidance to help you succeed.
+## 🌟 **About the Project**
 
-### 🎯 Why Choose Interview Prep AI?
+**Interview Prep AI** is a cutting-edge platform powered by **Google's Gemini AI** that revolutionizes interview preparation. Tailored to meet your career aspirations, it delivers personalized practice sessions, real-time feedback, and expert guidance to help you stand out.
 
-- **Personalized Learning Path**: Adapts to your experience level and career goals
-- **Real-time AI Feedback**: Get instant, constructive feedback on your responses
-- **Industry-Aligned Questions**: Practice with questions that mirror real interviews
-- **Comprehensive Coverage**: From technical skills to behavioral competencies
+### 🎯 **Why Choose Interview Prep AI?**
 
-## ✨ Features in Detail
+✅ **Personalized Learning Path:** Tailored to your experience and goals.  
+✅ **Real-Time AI Feedback:** Improve clarity, structure, and accuracy.  
+✅ **Industry-Aligned Questions:** Reflect real-world interview scenarios.  
+✅ **Comprehensive Coverage:** From technical skills to behavioral competencies.  
 
-### 🎨 Smart Interview Configuration
-- **Role Customization**
-  - Specify your target job title
-  - Choose between technical and non-technical tracks
-  - Set your experience level (Entry/Mid/Senior)
-  - Input specific skills and technologies
+---
 
-### 📚 Question Categories
-- **Technical Questions**
-  - Data Structures & Algorithms
-  - System Design
-  - Language-specific concepts
-  - Problem-solving scenarios
-- **Behavioral Questions**
-  - Leadership experiences
-  - Conflict resolution
-  - Team collaboration
-  - Project management
-- **HR Questions**
-  - Career goals
-  - Company culture fit
-  - Salary expectations
-  - Work preferences
+## ✨ **Features**
 
-### 💡 Intelligent Features
-- **AI-Powered Feedback**
-  - Detailed analysis of your responses
-  - Suggestions for improvement
-  - Clarity and structure assessment
-  - Technical accuracy evaluation
-- **Progress Tracking**
-  - Session history
-  - Performance metrics
-  - Improvement areas
-  - Export functionality for review
+### 🎨 **Smart Interview Configuration**
+- Select your **job title**, **skills**, and **experience level**.
+- Customize **question categories** for technical, behavioral, or HR interviews.
 
-## 🛠️ Technical Stack
+### 📚 **Wide Question Coverage**
+- **Technical Questions:** DSA, system design, and more.  
+- **Behavioral Questions:** Leadership, conflict resolution, teamwork.  
+- **HR Questions:** Career goals, culture fit, and salary expectations.  
+
+### 💡 **AI-Powered Insights**
+- **Detailed Feedback:** Assess structure, clarity, and technical accuracy.  
+- **Progress Tracking:** Monitor performance and export session reports.
+
+---
+
+## 🛠️ **Technical Stack**
 
 ```plaintext
 Frontend
@@ -78,67 +61,77 @@ Deployment
 └── Netlify
 ```
 
-## 🚀 Getting Started
+---
 
-1. **Visit the Live Demo**
-   ```
-   https://vocal-baklava-4a3dd3.netlify.app/
-   ```
+## 🚀 **Getting Started**
 
-2. **Configure Your Interview**
-   - Select your job role
-   - Choose question categories
-   - Set difficulty level
-   - Add required skills
+### 💻 **Clone the Repository**
+```bash
+git clone https://github.com/aryan1112003/Interview-Preparation-Application.git
+cd Interview-Preparation-Application
+```
 
-3. **Start Practicing**
-   - Answer generated questions
-   - Receive instant feedback
-   - Review model answers
-   - Export your session
+### 📦 **Install Dependencies**
+```bash
+npm install
+```
 
-## 💪 Best Practices for Users
+### ▶️ **Run the Application**
+```bash
+npm run dev
+```
 
-1. **Preparation**
-   - Review the job description thoroughly
-   - List your key skills and experiences
-   - Set appropriate difficulty levels
-   - Choose relevant question categories
+### 🌐 **Visit the Live Demo**
+[Click here to explore!](https://vocal-baklava-4a3dd3.netlify.app/)
 
-2. **During Practice**
-   - Take time to structure your answers
-   - Use the STAR method for behavioral questions
-   - Review feedback carefully
-   - Compare with model answers
+---
 
-3. **After Sessions**
-   - Export your responses for review
-   - Focus on improvement areas
-   - Practice regularly
-   - Track your progress
+## 💪 **Best Practices for Users**
 
-## 🌈 Success Stories
+1. **Before Practicing:**
+   - Review job descriptions and required skills.
+   - Configure your interview settings appropriately.
 
-> "Interview Prep AI helped me land my dream job at a top tech company. The AI feedback was invaluable!" - *Software Engineer*
+2. **During Practice:**
+   - Structure your responses using the STAR method.  
+   - Analyze the AI's feedback for continuous improvement.
 
-> "The personalized questions and instant feedback made my interview preparation much more effective." - *Product Manager*
+3. **After Sessions:**
+   - Export your answers for review.  
+   - Focus on areas needing improvement.  
+   - Practice regularly to track your progress.  
 
-## 🔗 Connect & Contribute
+---
 
-- **GitHub**: [aryan1112003](https://github.com/aryan1112003)
-- **LinkedIn**: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
-- **Live Demo**: [Interview Prep AI](https://vocal-baklava-4a3dd3.netlify.app/)
+## 🌈 **Success Stories**
 
-## 📝 License
+✨ "I landed my dream job at a top tech company, thanks to Interview Prep AI's detailed feedback!"  
+— *Software Engineer*  
 
-© 2024 Interview Prep AI. All rights reserved.
+✨ "The personalized interview questions and guidance were game-changers for my preparation."  
+— *Product Manager*  
+
+---
+
+## 🔗 **Connect & Contribute**
+
+- **GitHub:** [aryan1112003](https://github.com/aryan1112003)  
+- **LinkedIn:** [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)  
+- **Live Demo:** [Interview Prep AI](https://vocal-baklava-4a3dd3.netlify.app/)  
+
+Contributions are always welcome! Feel free to fork the repository, make enhancements, and submit a pull request.
+
+---
+
+## 📝 **License**
+
+© 2025 Interview Prep AI. All rights reserved.
 
 ---
 
 <div align="center">
 
-### Made with 💖 by Aryan Acharya
-
-*Empowering candidates to ace their interviews, one question at a time*
+### Made with 💖 by Aryan Acharya  
+*Empowering candidates to ace their interviews, one question at a time.*
 
 </div>
